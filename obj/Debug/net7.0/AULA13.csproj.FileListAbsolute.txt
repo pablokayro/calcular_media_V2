@@ -1,0 +1,30 @@
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\bin\Debug\net7.0\AULA13.exe
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\bin\Debug\net7.0\AULA13.deps.json
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\bin\Debug\net7.0\AULA13.runtimeconfig.json
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\bin\Debug\net7.0\AULA13.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\bin\Debug\net7.0\AULA13.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\obj\Debug\net7.0\AULA13.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\obj\Debug\net7.0\AULA13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\obj\Debug\net7.0\AULA13.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\obj\Debug\net7.0\AULA13.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\obj\Debug\net7.0\AULA13.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\obj\Debug\net7.0\AULA13.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\obj\Debug\net7.0\refint\AULA13.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\obj\Debug\net7.0\AULA13.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\obj\Debug\net7.0\AULA13.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\c#\AULA13\obj\Debug\net7.0\ref\AULA13.dll
+C:\CURSOS\csharp\AULA13\bin\Debug\net7.0\AULA13.exe
+C:\CURSOS\csharp\AULA13\bin\Debug\net7.0\AULA13.deps.json
+C:\CURSOS\csharp\AULA13\bin\Debug\net7.0\AULA13.runtimeconfig.json
+C:\CURSOS\csharp\AULA13\bin\Debug\net7.0\AULA13.dll
+C:\CURSOS\csharp\AULA13\bin\Debug\net7.0\AULA13.pdb
+C:\CURSOS\csharp\AULA13\obj\Debug\net7.0\AULA13.csproj.AssemblyReference.cache
+C:\CURSOS\csharp\AULA13\obj\Debug\net7.0\AULA13.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSOS\csharp\AULA13\obj\Debug\net7.0\AULA13.AssemblyInfoInputs.cache
+C:\CURSOS\csharp\AULA13\obj\Debug\net7.0\AULA13.AssemblyInfo.cs
+C:\CURSOS\csharp\AULA13\obj\Debug\net7.0\AULA13.csproj.CoreCompileInputs.cache
+C:\CURSOS\csharp\AULA13\obj\Debug\net7.0\AULA13.dll
+C:\CURSOS\csharp\AULA13\obj\Debug\net7.0\refint\AULA13.dll
+C:\CURSOS\csharp\AULA13\obj\Debug\net7.0\AULA13.pdb
+C:\CURSOS\csharp\AULA13\obj\Debug\net7.0\AULA13.genruntimeconfig.cache
+C:\CURSOS\csharp\AULA13\obj\Debug\net7.0\ref\AULA13.dll
